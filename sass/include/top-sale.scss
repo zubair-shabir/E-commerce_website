@@ -16,11 +16,10 @@
         outline: none;
     }
     .owl-carousel .owl-nav button.owl-prev{
-        left:0;
-        
+        left:0;        
     }
     .owl-carousel .owl-nav button.owl-prev span{
-        font-size: 25px;
+        font-size: 35px;
         color: $color-primary;
         margin-left: -4rem;
         padding: 0 1rem;
@@ -36,3 +35,4 @@
         padding: 0 1rem;
     }
 }
+
